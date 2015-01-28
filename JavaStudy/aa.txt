@@ -1,0 +1,8 @@
+
+:::::utf-8:::::
+
+zhangsan,23,福建	
+lisi,30,上海	
+wangwu,43,北京	
+laolin,21,重庆	
+ximenqing,67,贵州	
