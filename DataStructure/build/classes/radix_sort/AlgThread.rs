@@ -1,2 +1,0 @@
-AlgThread
-AlgThread$IntList

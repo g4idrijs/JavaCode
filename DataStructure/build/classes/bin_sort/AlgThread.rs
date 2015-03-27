@@ -1,2 +1,0 @@
-DataStructure.bin_sort.AlgThread
-DataStructure.bin_sort.AlgThread$IntList
